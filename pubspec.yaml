@@ -1,6 +1,8 @@
 name: agora_token_generator
 description: "Flutter package for generating Agora Dynamic Keys and Access Tokens"
-version: 0.0.2
+homepage: https://github.com/MohamedAbd0/agora_token_generator/
+repository: https://github.com/MohamedAbd0/agora_token_generator/
+version: 1.0.0
 
 environment:
   sdk: ^3.6.1
